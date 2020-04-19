@@ -1,0 +1,7 @@
+In bash:
+scheme < my_scheme_code_file.scm
+
+Note: In bash, > is an output redirection, >> is output redirection + append (no overwrite) and
+< is an input redirection (my_scheme_code_file.scm > scheme wouldn't work because it was easier
+and maybe easier to tell bash that > is always an output redirection than to say that if a file
+is before a command then it should be an input redirection...)
