@@ -1,0 +1,9 @@
+.gitignore.swp
+Chap1/1_reading_notes*
+!Chap1/1_reading_notes.pdf
+!Chap1/1_reading_notes.tex
+Reading_Notes*
+!Reading_Notes.pdf
+!Reading_Notes.tex
+!reading_notes.bib
+sicp.png
